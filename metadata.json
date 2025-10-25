@@ -1,0 +1,5 @@
+{
+  "name": "CosmoCash",
+  "description": "A Space Cowboy themed app to help roommates consolidate their finances and shared expenses, track contributions, and save for apartment upgrades.",
+  "requestFramePermissions": []
+}
